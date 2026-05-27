@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pwakudumo.github.io/earthquake-test-/about.html</loc>
-    <lastmod>2026-05-26T15:25:01.997Z</lastmod>
-  </url>
-  <url>
     <loc>https://pwakudumo.github.io/earthquake-test-/report.html</loc>
-    <lastmod>2026-05-26T15:25:01.997Z</lastmod>
+    <lastmod>2026-05-27T15:39:38.076Z</lastmod>
   </url>
   <url>
     <loc>https://pwakudumo.github.io/earthquake-test-/index.html</loc>
-    <lastmod>2026-05-26T15:25:01.997Z</lastmod>
+    <lastmod>2026-05-27T15:39:38.076Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pwakudumo.github.io/earthquake-test-/about.html</loc>
+    <lastmod>2026-05-27T15:39:38.075Z</lastmod>
   </url>
   <url>
     <loc>https://pwakudumo.github.io/earthquake-test-/R/report.html</loc>
-    <lastmod>2026-05-26T15:25:01.990Z</lastmod>
+    <lastmod>2026-05-27T15:39:38.068Z</lastmod>
   </url>
 </urlset>
